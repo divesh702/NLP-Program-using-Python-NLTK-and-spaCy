@@ -95,7 +95,7 @@ Advanced-NLP-Experiments/
 
 ## 👨‍💻 Author
 
-**ALOK YADAV**
+DIVESH KUMAR PRAJAPATI
 
 ## 📄 License
 
